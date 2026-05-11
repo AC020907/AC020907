@@ -25,4 +25,5 @@ Python • SQL • pandas • NumPy • SciPy • Matplotlib • Jupyter • Git
 Building data-driven solutions and expanding my portfolio through real-world analytical projects.
 
 📍 Barranquilla, Colombia
-📫 LinkedIn: [tu-linkedin]
+
+📫 LinkedIn: www.linkedin.com/in/alejandro-cotes-fornaris-270b05407
