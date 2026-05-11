@@ -11,7 +11,7 @@ Focused on:
 
 ## Tech Stack
 
-Python • SQL • pandas • NumPy • SciPy • Matplotlib • Jupyter • Git
+Python • SQL • pandas • NumPy • SciPy • Matplotlib • Jupyter • Git • R • Java
 
 ## Featured Projects
 
