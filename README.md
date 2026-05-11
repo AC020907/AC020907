@@ -26,4 +26,5 @@ Building data-driven solutions and expanding my portfolio through real-world ana
 
 📍 Barranquilla, Colombia
 
-📫 LinkedIn: www.linkedin.com/in/alejandro-cotes-fornaris-270b05407
+📫 LinkedIn: www.linkedin.com/in/alejandro-cotes-fornaris
+
