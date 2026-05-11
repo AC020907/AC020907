@@ -1,16 +1,28 @@
-## Hi there 👋
+# Alejandro | Data Science Student
 
-<!--
-**AC020907/AC020907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science student at Universidad del Norte and Data Scientist in training at TripleTen.
 
-Here are some ideas to get you started:
+Focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Data Analysis
+* Machine Learning
+* Statistical Analysis
+* Business Intelligence
+
+## Tech Stack
+
+Python • SQL • pandas • NumPy • SciPy • Matplotlib • Jupyter • Git
+
+## Featured Projects
+
+* Ice Video Game Sales Analysis
+* Megaline Telecom Revenue Analysis
+* Zuber Chicago Taxi Analytics
+* Vehicles US Dashboard
+
+## Currently
+
+Building data-driven solutions and expanding my portfolio through real-world analytical projects.
+
+📍 Barranquilla, Colombia
+📫 LinkedIn: [tu-linkedin]
