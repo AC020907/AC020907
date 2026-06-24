@@ -11,15 +11,15 @@ Focused on:
 
 ## Tech Stack
 
-Python • SQL • pandas • NumPy • SciPy • Matplotlib • Jupyter • Git • R • Java
+Python • SQL • pandas • NumPy • SciPy • scikit-learn • Matplotlib • Seaborn • Jupyter • Git • R • Java
 
 ## Featured Projects
 
+* Gold Recovery Prediction using Machine Learning
 * Ice Video Game Sales Analysis
 * Megaline Telecom Revenue Analysis
 * Zuber Chicago Taxi Analytics
 * Vehicles US Dashboard
-* gold-recovery-optimization
 
 ## Currently
 
@@ -28,4 +28,3 @@ Building data-driven solutions and expanding my portfolio through real-world ana
 📍 Barranquilla, Colombia
 
 📫 LinkedIn: www.linkedin.com/in/alejandro-cotes-fornaris
-
