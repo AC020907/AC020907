@@ -19,6 +19,7 @@ Python • SQL • pandas • NumPy • SciPy • Matplotlib • Jupyter • Git
 * Megaline Telecom Revenue Analysis
 * Zuber Chicago Taxi Analytics
 * Vehicles US Dashboard
+* gold-recovery-optimization
 
 ## Currently
 
